@@ -1,0 +1,49 @@
+---
+title: Armchairhistorian
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+name: Tales of a Professional Armchair Historian
+description: Historian, museologist and aspiring developer
+avatar: https://github.com/kaythensley/kaythensley.github.io/blob/master/kayt3.jpg?raw=true
+footer-links:
+  dribbble: 
+  email: 
+  facebook: 
+  flickr: 
+  github: kaythensley
+  instagram: 
+  linkedin: 
+  pinterest: 
+  rss: 
+  twitter: kaytwritescode
+  stackoverflow: 
+  youtube: 
+  googleplus: 
+disqus: armchairhistorian
+google_analytics: 
+url: 
+baseurl: "/armchairhistorian"
+permalink: "/:title/"
+version: v1.2.0
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    css_class: highlight
+sass:
+  style: :expanded
+gems:
+- jekyll-sitemap
+- jekyll-feed
+exclude:
+- Gemfile
+- Gemfile.lock
+- LICENSE
+- README.md
+- CNAME
