@@ -30,7 +30,8 @@ layout: post
 
 **Author:** Georgette Heyer
 
-**Status:** Okay, we need to take a moment to talk about Georgette Heyer. Well, more than a moment, as you will soon see. Heyer takes up the most real estate of any one author on my shelf. I currently own 15 Heyer novels (and two non-fiction books about her, which we will see later). One of her works is on every 'favorite books list' I've ever attempted. Probably more than Austen, Heyer informed my historical interests. (I started reading both at about the same time). The posts are going to be a bit same-y for a while, and I have a feeling I may not want to read another Heyer novel for a long time once I've read my entire collection straight through.
+**Status:** Okay, we need to take a moment to talk about Georgette Heyer. Well, more than a moment, as you will soon see. Heyer takes up the most real estate of any one author on my shelf. I currently own 15 Heyer novels (and two non-fiction books about her, which we will see later). One of her works is on every 'favorite books list' I've ever attempted. Probably more than Austen, Heyer informed my historical interests. (I started reading both at about the same time). The posts are going to be a bit same-y for a while, and I have a feeling I may not want to read another Heyer nove
+ for a long time once I've read my entire collection straight through.
 
 Also, a note about order. In past moves, I have ordered my Heyer collection by time period in which the novels occurred. However, this time around I seem to have put all the standard paperbacks together, then all the trade paperbacks. (15 moves in 16 years, may I remind you.) They do all seem to be alphabetical within their format, however.
 
