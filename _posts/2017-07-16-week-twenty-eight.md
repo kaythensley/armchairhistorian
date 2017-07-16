@@ -12,12 +12,12 @@ layout: post
 
 **Author:** Georgette Heyer
 
-**Status:** This one requiresa bit of clarification. _April Lady_ is a novella and it is usually packaged with _Pistols for Two_, a collection of short stories. So this is actually 12 tales in one. _April Lady_ feels like an early draft for _The Convenient Marriage_ (see down the page). All the short stories are lovely -but people get paired off almost instantly in most cases, which strains credulity a bit (even in this genre).
+**Status:** This one requires a bit of clarification. _April Lady_ is a novella and it is usually packaged with _Pistols for Two_, a collection of short stories. So this is actually 12 tales in one. _April Lady_ feels like an early draft for _The Convenient Marriage_ (see down the page). All the short stories are lovely -but people get paired off almost instantly in most cases, which strains credulity a bit (even in this genre).
 
 **Result:** Shallow as it is, I really dislike the cover of this book. I think I shall send it on and see if I can get it electronically.
 
 ---
-**Title:** _The Talisman RIng_
+**Title:** _The Talisman Ring_
 
 **Author:** Georgette Heyer
 
@@ -39,7 +39,7 @@ layout: post
 
 **Author:** Georgette Heyer
 
-**Status:** This is my mom's favorite. Kitty is a pretty conventional heroine, but Freddy is unlike any other Heyer hero to my knowlege. (Imagine Bertie Wooster in a cravat). I nearly cited _Cotillion_ in one of my theses because Freddy talks about how he couldn't take the Grand Tour like his father did owing to Napoleon.
+**Status:** This is my mom's favorite. Kitty is a pretty conventional heroine, but Freddy is unlike any other Heyer hero to my knowledge. (Imagine Bertie Wooster in a cravat). I nearly cited _Cotillion_ in one of my theses because Freddy talks about how he couldn't take the Grand Tour like his father did owing to Napoleon.
 
 **Result:** I wouldn't mind a different edition of this one, but I shall keep.
 
