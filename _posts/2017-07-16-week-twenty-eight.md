@@ -35,7 +35,7 @@ layout: post
 **Result:** Keep for sure.
 
 ---
-**Title:** _Cotillion_
+**Title:** _Cotilion_
 
 **Author:** Georgette Heyer
 
