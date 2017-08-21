@@ -1,6 +1,6 @@
 ---
-title: Bookshelf Project, Week Thirty-twwo
-date: 2017-87-10 00:00:00 Z
+title: Bookshelf Project, Week Thirty-two
+date: 2017-08-10 00:00:00 Z
 layout: post
 ---
 
